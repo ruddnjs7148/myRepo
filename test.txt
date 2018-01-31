@@ -1,0 +1,1 @@
+using the sql*from spool command

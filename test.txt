@@ -1,2 +1,0 @@
-using the sql*from spool command
-delete
